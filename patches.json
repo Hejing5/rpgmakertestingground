@@ -1,0 +1,46 @@
+{
+    "rpgm": [
+        {
+            "author": "SaiCateDoan",
+            "comment": "Remove Screenshot on Savefile Window",
+            "key": "bitmap = @bmps[@file_no]",
+            "value": " "
+        },
+        {
+            "author": "SaiCateDoan",
+            "comment": "Remove Screenshot on Savefile Window",
+            "key": "start_x = (contents.width - bitmap.width) / 2",
+            "value": "start_x = 20"
+        },
+        {
+            "author": "SaiCateDoan",
+            "comment": "Remove Screenshot on Savefile Window",
+            "key": "contents.fill_rect(start_x - 1, 7, bitmap.width + 2, bitmap.height + 2, Color.new(155, 155, 150))",
+            "value": " "
+        },
+        {
+            "author": "SaiCateDoan",
+            "comment": "Remove Screenshot on Savefile Window",
+            "key": "contents.blt(start_x, 8, bitmap, bitmap.rect)",
+            "value": " "
+        },
+        {
+            "author": "SaiCateDoan",
+            "comment": "Remove Screenshot on Savefile Window",
+            "key": "character_y = bitmap.height + 22 + i * 40",
+            "value": "character_y = 20 + i * 40"
+        },
+        {
+            "author": "SaiCateDoan",
+            "comment": "Remove Screenshot on Savefile Window",
+            "key": "draw_name_for_preview(data[3], start_x + 130, character_y + 10, bitmap.width - start_x - 100)",
+            "value": "draw_name_for_preview(data[3], start_x + 130, character_y + 10, contents.width - 140)"
+        },
+        {
+            "author": "SaiCateDoan",
+            "comment": "Fix Scene NameInput",
+            "key": "SceneManager.call(Scene_NameNew)",
+            "value": "SceneManager.call(Scene_Name)"
+        }
+    ]
+}

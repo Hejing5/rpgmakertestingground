@@ -1,0 +1,41 @@
+Cái Nôi Của Cơn Ác Mộng: Dâng Hiến Đóa Hoa Cho Người
+patches.json (Tệp vá lỗi tự động của Joiplay, nhớ để vào thư mục gốc của game):
+Ẩn ảnh chụp màn hình tại giao diện lưu game (do Joiplay không hỗ trợ), nhằm đảm bảo các văn bản khác hiển thị bình thường.
+
+Sửa lỗi (bug) báo lỗi tại giao diện đặt tên.
+Scripts.rvdata2:
+0. [SCD] Deep Copy Font: Thêm chức năng sao chép font để sửa các lỗi bên dưới.
+[VM] Smooth Gauge: Phần quan trọng nhất; sửa lỗi rò rỉ bộ nhớ (memory leak) nghiêm trọng trên Joiplay 
+do việc thay đổi font chữ theo tên ở mỗi khung hình.
+
+[Lăng] Gói sửa lỗi cơ bản: Sửa lỗi hiệu ứng chuyển cảnh khi bắt đầu chiến đấu không hoạt động.
+
+Âm thanh bước chân (Nhật Bản): Sửa lỗi thiếu âm thanh bước chân ở địa hình mặc định.
+
+[Tinh] Chế tạo vật phẩm: Sửa lỗi hiển thị sai font chữ trên Joiplay.
+
+[SCD] Sửa lỗi Font Joiplay: Sửa lỗi sai độ trong suốt trên Joiplay (chỉ giải quyết phần ngọn,
+ không trị dứt điểm gốc rễ).
+
+[VICTOR] Script cơ bản: Sửa các lỗi rò rỉ bộ nhớ nhỏ không đáng kể.
+
+[KH] Ánh sáng [Bản sửa lỗi F12 mới]: Sửa lỗi rò rỉ bộ nhớ nhỏ.
+
+[MA] Thời tiết nâng cao: Sửa lỗi rò rỉ bộ nhớ nhỏ (liệu có thực sự nhỏ không?).
+
+[Miao] Script cơ bản: Tối ưu hóa thứ tự giải phóng bộ nhớ.
+
+[TA] Sương mù bản đồ: Tối ưu hóa thứ tự giải phóng bộ nhớ.
+
+Cập nhật bổ sung:
+[GA] Thay đổi SAN: Sửa lỗi rò rỉ bộ nhớ nghiêm trọng trên Joiplay tại các cảnh như sân thượng 
+Poison Pool do việc thay đổi font chữ liên tục.
+
+Mình đã gấp rút chơi phá đảo game rồi, nên chắc là sẽ không còn lỗi nào nghiêm trọng nữa đâu.
+
+PS: Đây đều là những ghi chú tiếng trung trong file game được mình dịch lại, đoán là của tác giả --KETO
+
+
+
+
+

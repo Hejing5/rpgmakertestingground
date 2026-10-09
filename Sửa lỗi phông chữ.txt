@@ -1,0 +1,18 @@
+● Đây là phương pháp khắc phục lỗi văng game (crash) và lỗi font chữ, không dành cho các công cụ hỗ trợ (hack/cheat) game:
+
+1. Cập nhật game: Luôn giữ game ở phiên bản mới nhất.
+
+2. Kiểm tra công cụ Mtool: Hãy xác nhận xem bạn có cài đặt công cụ Mtool trong thư mục game hay không. 
+Nếu có, hãy xóa nó để khắc phục lỗi font chữ; việc này cũng giúp tránh tình trạng văng game.
+Lưu ý về font chữ: Nếu bạn vẫn muốn sử dụng các font chữ khác, hãy cố gắng thu nhỏ kích thước chữ sao cho
+không vượt quá khung văn bản, nếu không sẽ xảy ra lỗi.
+
+● Nếu gặp tình trạng giật lag (stuttering):
+Tắt tối ưu hóa toàn màn hình (Chuột phải vào file .exe trong thư mục gốc 
+ Properties 
+ Tích chọn "Disable full-screen optimizations"). Tắt chạy ở chế độ tương thích (Compatibility mode). Khi ở
+ chế độ toàn màn hình, đừng dùng tổ hợp phím Alt + Enter, hãy dùng phím F5 có sẵn của game. Ngoài ra, bạn
+ có thể vào Task Manager để chỉnh mức ưu tiên của tiến trình (Process Priority) lên cao.
+
+PS: Đây đều là những ghi chú tiếng trung trong file game được mình dịch lại, đoán là của tác giả --KETO
+

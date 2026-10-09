@@ -1,0 +1,15 @@
+{
+    "diagonalMovement": false,
+    "btnOpacity": 50,
+    "btnScale": 100,
+    "aKeyCode": 52,
+    "bKeyCode": 59,
+    "cKeyCode": 32,
+    "xKeyCode": 54,
+    "yKeyCode": 113,
+    "zKeyCode": 29,
+    "lKeyCode": 66,
+    "rKeyCode": 111,
+    "clKeyCode": 132,
+    "crKeyCode": 138
+}

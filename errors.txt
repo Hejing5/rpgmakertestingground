@@ -1,0 +1,84 @@
+Error:File not found on Bitmap.new
+Graphics/Characters/$下水道花
+Error on eval script
+MapID:20
+EventID:0
+Script:
+steam = SteamUserStatsLite.instance
+$game_switches[782] = true if steam.get_achievement('BOSS_1_DZZL') == true
+$game_switches[783] = true if steam.get_achievement('BOSS_1_YLTS') == true
+$game_switches[784] = true if steam.get_achievement('BOSS_1_BZZQ') == true
+$game_switches[785] = true if steam.get_achievement('BOSS_1_SSR1') == true
+$game_switches[786] = true if steam.get_achievement('BOSS_1_SSR2') == true
+$game_switches[787] = true if steam.get_achievement('BOSS_1_QXYY') == true
+$game_switches[788] = true if steam.get_achievement('SPEC_3_SGZT') == true
+$game_switches[789] = true if steam.get_achievement('BOSS_1_JHRX') == true
+$game_switches[790] = true if steam.get_achievement('BOSS_1_YQZM') == true
+$game_switches[791] = true if steam.get_achievement('BOSS_1_JZZW') == true
+$game_switches[792] = true if steam.get_achievement('BOSS_1_BLTS') == true
+$game_switches[793] = true if steam.get_achievement('BOSS_1_JYZ') == true
+$game_switches[794] = true if steam.get_achievement('BOSS_1_GJ') == true
+$game_switches[795] = true if steam.get_achievement('BOSS_1_ZYDDXB') == true
+$game_switches[796] = true if steam.get_achievement('BOSS_1_WDEM') == true
+$game_switches[797] = true if steam.get_achievement('SPEC_3_NWZW') == true
+$game_switches[798] = true if steam.get_achievement('BOSS_1_DXWL') == true
+$game_switches[799] = true if steam.get_achievement('BOSS_1_DYYL') == true
+$game_switches[800] = true if steam.get_achievement('BOSS_1_ZSST') == true
+$game_switches[801] = true if steam.get_achievement('SPEC_3_RQTR') == true
+$game_switches[802] = true if steam.get_achievement('BOSS_1_TSHL') == true
+$game_switches[803] = true if steam.get_achievement('BOSS_1_HY') == true
+$game_switches[804] = true if steam.get_achievement('BOSS_1_BDLK') == true
+$game_switches[805] = true if steam.get_achievement('BOSS_1_DLLS') == true
+$game_switches[806] = true if steam.get_achievement('BOSS_1_KXSG') == true
+ErrorMessage:
+uninitialized constant Game_Interpreter::SteamUserStatsLite
+Script:
+steam = SteamUserStatsLite.instance
+$game_switches[807] = true if steam.get_achievement('BOSS_1_DLJS') == true
+$game_switches[808] = true if steam.get_achievement('BOSS_1_DHN') == true
+$game_switches[809] = true if steam.get_achievement('BOSS_1_XYMGD') == true
+$game_switches[810] = true if steam.get_achievement('BOSS_1_KQZ') == true
+$game_switches[811] = true if steam.get_achievement('BOSS_1_HJZR') == true
+$game_switches[812] = true if steam.get_achievement('BOSS_1_YYGL') == true
+$game_switches[813] = true if steam.get_achievement('BOSS_1_YMKS') == true
+$game_switches[814] = true if steam.get_achievement('BOSS_1_QZSN') == true
+$game_switches[815] = true if steam.get_achievement('BOSS_1_MCZ') == true
+$game_switches[816] = true if steam.get_achievement('BOSS_1_HEDF') == true
+$game_switches[817] = true if steam.get_achievement('BOSS_1_LSZW') == true
+$game_switches[818] = true if steam.get_achievement('BOSS_1_LMZ') == true
+$game_switches[819] = true if steam.get_achievement('END_9_BZJJ') == true
+$game_switches[820] = true if steam.get_achievement('END_9_HHJJ') == true
+$game_switches[821] = true if steam.get_achievement('END_9_HYJJ') == true
+$game_switches[822] = true if steam.get_achievement('SPEC_2_JSYM') == true
+$game_switches[823] = true if steam.get_achievement('SPEC_2_ZSXY') == true
+$game_switches[824] = true if steam.get_achievement('SPEC_2_YXNG') == true
+$game_switches[825] = true if steam.get_achievement('SPEC_2_YJFY') == true
+$game_switches[826] = true if steam.get_achievement('SPEC_2_QBFS') == true
+$game_switches[827] = true if steam.get_achievement('SPEC_2_QBFZ') == true
+$game_switches[828] = true if steam.get_achievement('SPEC_2_QBWQ') == true
+$game_switches[829] = true if steam.get_achievement('SPEC_2_QMGX') == true
+$game_switches[830] = true if steam.get_achievement('BOSS_1_XKJX') == true
+ErrorMessage:
+uninitialized constant Game_Interpreter::SteamUserStatsLite
+Script:
+steam = SteamUserStatsLite.instance
+$game_switches[831] = true if steam.get_achievement('SPEC_2_HKHX') == true
+$game_switches[832] = true if steam.get_achievement('SPEC_3_AJYH') == true
+$game_switches[833] = true if steam.get_achievement('SPEC_3_AJYH') == true
+$game_switches[834] = true if steam.get_achievement('ALL_99_EMYL') == true
+ErrorMessage:
+uninitialized constant Game_Interpreter::SteamUserStatsLite
+Error on eval script
+MapID:20
+EventID:1
+Script:
+steam = SteamUserStatsLite.instance
+steam.set_achievement 'BOSS_1_XKJX'
+steam.update
+ErrorMessage:
+uninitialized constant Game_Interpreter::SteamUserStatsLite
+Error:File not found on Bitmap.new
+Graphics/Characters/阴影
+Error on eval script
+MapID:11
+EventID:0
